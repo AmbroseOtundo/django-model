@@ -1,1 +1,1 @@
-# django-model
+# django_model
